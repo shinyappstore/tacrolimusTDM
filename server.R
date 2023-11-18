@@ -13,7 +13,10 @@ library(rmarkdown)
 library(knitr)
 library(DT)
 library(rsconnect)
-library(tidyverse)
+library(readr)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
 
 # 2. functions
 
