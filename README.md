@@ -1,24 +1,9 @@
-# tdm-tacrolimus
+![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s712_luWUpAqPiKcDtWiGiEJgPLWGM1eO4PQs1XKAplqt_logo_278.jpg)
 
-**Reference range**
 
-Target therapeutic levels for calcineurin inhibitors after transplant (liver)
 
-- cyclosporine
-    - 1st three months: 200-250 ng/mL
-    - after 12 months :  80-120 ng/mL
-- tacrolimus 
-    - 1st three months: 7-10 ng/mL
-    - after 12 months : 4- 6 ng/mL
+# tacrolimusTDM: Tacrolimus Pharmacokinetic Profile Simulation
 
-# Reference Ranges 2
+#### Use app online: __[www.shinyappstore.com/a/tacrolimusTDM](https://shinyappstore.com/a/tacrolimusTDM)__
 
-- Tacrolimus
-    - Starting dose : 0.15-0.20 mg/kg/day - 2 divided doses
-    - Ctrough 8-16 ng/mL (Whole blood)
-- Cyclosporin
-    - Starting dose : 8-10 mg/kg/day
-    - Ctrough 200-400 ng/mL (Whole blood) - first 3 months
-    - Ctrough 100-300 ng/mL (Whole blood) - thereafter
-
-**Reference**: Yang HC1. Tailoring tacrolimus-based immunotherapy in renal transplantation. Nephrol Dial Transplant. 2003 May;18 Suppl 1:i16-20. <https://academic.oup.com/ndt/article/18/suppl_1/i16/1830801>
+tacrolimusTDM is an application designed for simulating the pharmacokinetic profile of tacrolimus, a crucial immunosuppressive agent in renal transplantation. Tacrolimus, when compared with ciclosporin, has shown a reduced incidence of acute rejection, making it a cornerstone in immunosuppressive therapy. Optimizing immunosuppressive management in the early post-transplant period is vital for achieving long-term graft function and survival. To enhance the outcomes of renal transplantation, tacrolimus has been combined with novel immunosuppressive agents like mycophenolate mofetil (MMF) and sirolimus. These combinations have shown promising results in terms of patient and graft survival, reduced acute rejection rates, and improved renal graft function. Tacrolimus, particularly when combined with MMF, demonstrated superior graft survival in patients with delayed graft function and better outcomes compared to ciclosporin microemulsion plus MMF immunosuppression.
